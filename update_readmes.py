@@ -99,8 +99,8 @@ def _as_markdown_language_list(puzzles):
     languages = (
         pd.DataFrame(puzzles)
         .assign(
-            emoji=lambda df: df.link.str.extract(r"\[(.)\]"),
-            language=lambda df: df.link.str.extract(r"\[.\]\((\w+)/"),
+            emoji=lambda df: df.link.str.extract(r"\[(.+)\]"),
+            language=lambda df: df.link.str.extract(r"\[.+\]\((\w+)/"),
         )
         .groupby("language")
         .agg(emoji=("emoji", "first"), num_puzzles=("language", "size"))
