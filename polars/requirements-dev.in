@@ -1,0 +1,11 @@
+-r requirements.txt
+
+codetiming
+docformatter
+ipython
+pandas
+parse
+pytest
+requests
+ruff
+tabulate
