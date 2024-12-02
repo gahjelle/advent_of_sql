@@ -1,5 +1,5 @@
-# The Battle for the Farmlands
+# Santa's Gift List Parser
 
 **Advent of SQL: Day 1, 2024**
 
-Puzzle text: <https://advent_of_sql.com/challenges/1>
+Puzzle text: <https://adventofsql.com/challenges/1>

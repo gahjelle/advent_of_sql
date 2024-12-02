@@ -1,5 +1,5 @@
-# 
+# The Great Christmas Analytics Crisis Of 2024
 
 **Advent of SQL: Day 0, 2024**
 
-Puzzle text: <https://advent_of_sql.com/challenges/0>
+Puzzle text: <https://adventofsql.com/challenges/0>

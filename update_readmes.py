@@ -19,15 +19,16 @@ class Puzzle:
     def title(self):
         titles = {
             2024: {
-                0: "",
-                1: "The Battle for the Farmlands",
+                0: "The Great Christmas Analytics Crisis Of 2024",
+                1: "Santa's Gift List Parser",
+                2: "Santa's Jumbled Letters",
             }
         }
         return titles[self.year][self.day]
 
     @property
     def url(self):
-        return f"https://advent_of_sql.com/challenges/{self.day}"
+        return f"https://adventofsql.com/challenges/{self.day}"
 
 
 def _solutions(glob, pattern, path):
