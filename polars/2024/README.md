@@ -9,7 +9,7 @@ Solutions to [Advent of SQL 2024](https://adventofsql.com/) using [Python](https
 | 2    | Santa's Jumbled Letters              | [aosql202402.py](02_santas_jumbled_letters/aosql202402.py)               |  1.34 ms 🔵 |
 | 3    |                                      |                                                                          |            |
 | 4    | The Great Toy Tag Migration          | [aosql202404.py](04_the_great_toy_tag_migration/aosql202404.py)          | 33.67 ms 🔵 |
-| 5    |                                      |                                                                          |            |
+| 5    | Santas Production Dashboard          | [aosql202405.py](05_santas_production_dashboard/aosql202405.py)          |  1.11 ms 🔵 |
 | 6    |                                      |                                                                          |            |
 | 7    |                                      |                                                                          |            |
 | 8    |                                      |                                                                          |            |

@@ -24,6 +24,7 @@ class Puzzle:
                 2: "Santa's Jumbled Letters",
                 3: "The Greatest Christmas Dinner Ever",
                 4: "The Great Toy Tag Migration",
+                5: "Santa's Production Dashboard",
             }
         }
         return titles[self.year][self.day]
