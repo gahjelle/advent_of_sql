@@ -19,9 +19,11 @@ class Puzzle:
     def title(self):
         titles = {
             2024: {
-                0: "The Great Christmas Analytics Crisis Of 2024",
+                0: "The Great Christmas Analytics Crisis",
                 1: "Santa's Gift List Parser",
                 2: "Santa's Jumbled Letters",
+                3: "The Greatest Christmas Dinner Ever",
+                4: "The Great Toy Tag Migration",
             }
         }
         return titles[self.year][self.day]

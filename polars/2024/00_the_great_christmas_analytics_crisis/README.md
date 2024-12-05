@@ -1,4 +1,4 @@
-# The Great Christmas Analytics Crisis Of 2024
+# The Great Christmas Analytics Crisis
 
 **Advent of SQL: Day 0, 2024**
 
