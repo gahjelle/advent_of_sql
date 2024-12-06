@@ -25,6 +25,7 @@ class Puzzle:
                 3: "The Greatest Christmas Dinner Ever",
                 4: "The Great Toy Tag Migration",
                 5: "Santa's Production Dashboard",
+                6: "Making Presents Fairer",
             }
         }
         return titles[self.year][self.day]
