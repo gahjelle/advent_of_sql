@@ -26,6 +26,7 @@ class Puzzle:
                 4: "The Great Toy Tag Migration",
                 5: "Santa's Production Dashboard",
                 6: "Making Presents Fairer",
+                7: "Santa's Cartesian Elf Skill-Matching Program",
             }
         }
         return titles[self.year][self.day]
