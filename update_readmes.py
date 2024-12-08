@@ -27,6 +27,7 @@ class Puzzle:
                 5: "Santa's Production Dashboard",
                 6: "Making Presents Fairer",
                 7: "Santa's Cartesian Elf Skill-Matching Program",
+                8: "The Great North Pole Bureaucracy Bust",
             }
         }
         return titles[self.year][self.day]
