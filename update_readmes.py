@@ -28,6 +28,7 @@ class Puzzle:
                 6: "Making Presents Fairer",
                 7: "Santa's Cartesian Elf Skill-Matching Program",
                 8: "The Great North Pole Bureaucracy Bust",
+                9: "Reindeer Training Records",
             }
         }
         return titles[self.year][self.day]
