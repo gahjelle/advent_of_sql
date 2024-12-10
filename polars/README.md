@@ -1,6 +1,6 @@
 # Advent of SQL in Polars
 
-Solutions to [Advent of SQL](https://adventofsql.com/) in [Polars](https://docs.pola.rs/) (10⭐):
+Solutions to [Advent of SQL](https://adventofsql.com/) in [Polars](https://docs.pola.rs/) (11⭐):
 
 |   Day | [2024](2024)                                              |
 |------:|:----------------------------------------------------------|
@@ -14,7 +14,7 @@ Solutions to [Advent of SQL](https://adventofsql.com/) in [Polars](https://docs.
 |     7 | [⭐](2024/07_santas_cartesian_elf_skill-matching_program) |
 |     8 | [⭐](2024/08_the_great_north_pole_bureaucracy_bust)       |
 |     9 | [⭐](2024/09_reindeer_training_records)                   |
-|    10 |                                                           |
+|    10 | [⭐](2024/10_the_christmas_party_drinking_list)           |
 |    11 |                                                           |
 |    12 |                                                           |
 |    13 |                                                           |

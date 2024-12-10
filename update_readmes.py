@@ -29,6 +29,7 @@ class Puzzle:
                 7: "Santa's Cartesian Elf Skill-Matching Program",
                 8: "The Great North Pole Bureaucracy Bust",
                 9: "Reindeer Training Records",
+                10: "The Christmas Party Drinking List",
             }
         }
         return titles[self.year][self.day]
