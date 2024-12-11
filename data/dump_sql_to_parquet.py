@@ -2,9 +2,8 @@ import os
 import sys
 from pathlib import Path
 
-import psycopg
-
 import polars as pl
+import psycopg
 
 DB_NAME = "santa_workshop"
 DB_URI = (
@@ -40,7 +39,7 @@ def dump_to_parquet(file_path):
         if not line.startswith("CREATE TABLE "):
             continue
 
-        table_name = line.split()[2].lower()
+        table_name = line.split()[-2].lower()
         out_path = data_dir / f"aosql{year}{day:02d}_{table_name}.parquet"
 
         print(f"Writing table {table_name} to {out_path}")

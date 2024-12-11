@@ -15,7 +15,7 @@ Solutions to [Advent of SQL 2024](https://adventofsql.com/) using [Python](https
 | 8    | The Great North Pole Bureaucracy Bust        | [aosql202408.py](08_the_great_north_pole_bureaucracy_bust/aosql202408.py)       | 693.28 ms 🔵 |
 | 9    | Reindeer Training Records                    | [aosql202409.py](09_reindeer_training_records/aosql202409.py)                   |   2.47 ms 🔵 |
 | 10   | The Christmas Party Drinking List            | [aosql202410.py](10_the_christmas_party_drinking_list/aosql202410.py)           |   1.49 ms 🔵 |
-| 11   |                                              |                                                                                 |             |
+| 11   | The Christmas Tree Famine                    | [aosql202411.py](11_the_christmas_tree_famine/aosql202411.py)                   |   1.35 ms 🔵 |
 | 12   |                                              |                                                                                 |             |
 | 13   |                                              |                                                                                 |             |
 | 14   |                                              |                                                                                 |             |

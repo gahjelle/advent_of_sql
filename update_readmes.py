@@ -30,6 +30,7 @@ class Puzzle:
                 8: "The Great North Pole Bureaucracy Bust",
                 9: "Reindeer Training Records",
                 10: "The Christmas Party Drinking List",
+                11: "The Christmas Tree Famine",
             }
         }
         return titles[self.year][self.day]
