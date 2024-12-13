@@ -16,7 +16,7 @@ Solutions to [Advent of SQL 2024](https://adventofsql.com/) using [Python](https
 | 9    | Reindeer Training Records                    | [aosql202409.py](09_reindeer_training_records/aosql202409.py)                   |   2.47 ms 🔵 |
 | 10   | The Christmas Party Drinking List            | [aosql202410.py](10_the_christmas_party_drinking_list/aosql202410.py)           |   1.49 ms 🔵 |
 | 11   | The Christmas Tree Famine                    | [aosql202411.py](11_the_christmas_tree_famine/aosql202411.py)                   |   1.35 ms 🔵 |
-| 12   |                                              |                                                                                 |             |
+| 12   | The Great Gift Ranking                       | [aosql202412.py](12_the_great_gift_ranking/aosql202412.py)                      | 796.12 μs ⚪️ |
 | 13   | Santa's Christmas Card List                  | [aosql202413.py](13_santas_christmas_card_list/aosql202413.py)                  |   3.01 ms 🔵 |
 | 14   |                                              |                                                                                 |             |
 | 15   |                                              |                                                                                 |             |
