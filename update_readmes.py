@@ -31,6 +31,8 @@ class Puzzle:
                 9: "Reindeer Training Records",
                 10: "The Christmas Party Drinking List",
                 11: "The Christmas Tree Famine",
+                12: "The Great Gift Ranking",
+                13: "Santa's Christmas Card List",
             }
         }
         return titles[self.year][self.day]

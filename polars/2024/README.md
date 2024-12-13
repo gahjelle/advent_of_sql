@@ -9,7 +9,7 @@ Solutions to [Advent of SQL 2024](https://adventofsql.com/) using [Python](https
 | 2    | Santa's Jumbled Letters                      | [aosql202402.py](02_santas_jumbled_letters/aosql202402.py)                      |   1.34 ms 🔵 |
 | 3    | The Greatest Christmas Dinner Ever           | [aosql202403.py](03_the_greatest_christmas_dinner_ever/aosql202403.py)          |  54.96 ms 🔵 |
 | 4    | The Great Toy Tag Migration                  | [aosql202404.py](04_the_great_toy_tag_migration/aosql202404.py)                 |  33.67 ms 🔵 |
-| 5    | Santas Production Dashboard                  | [aosql202405.py](05_santas_production_dashboard/aosql202405.py)                 |   1.11 ms 🔵 |
+| 5    | Santa's Production Dashboard                 | [aosql202405.py](05_santas_production_dashboard/aosql202405.py)                 |   1.11 ms 🔵 |
 | 6    | Making Presents Fairer                       | [aosql202406.py](06_making_presents_fairer/aosql202406.py)                      |   1.02 ms 🔵 |
 | 7    | Santa's Cartesian Elf Skill-Matching Program | [aosql202407.py](07_santas_cartesian_elf_skill-matching_program/aosql202407.py) |   8.10 ms 🔵 |
 | 8    | The Great North Pole Bureaucracy Bust        | [aosql202408.py](08_the_great_north_pole_bureaucracy_bust/aosql202408.py)       | 693.28 ms 🔵 |
@@ -17,7 +17,7 @@ Solutions to [Advent of SQL 2024](https://adventofsql.com/) using [Python](https
 | 10   | The Christmas Party Drinking List            | [aosql202410.py](10_the_christmas_party_drinking_list/aosql202410.py)           |   1.49 ms 🔵 |
 | 11   | The Christmas Tree Famine                    | [aosql202411.py](11_the_christmas_tree_famine/aosql202411.py)                   |   1.35 ms 🔵 |
 | 12   |                                              |                                                                                 |             |
-| 13   |                                              |                                                                                 |             |
+| 13   | Santa's Christmas Card List                  | [aosql202413.py](13_santas_christmas_card_list/aosql202413.py)                  |   3.01 ms 🔵 |
 | 14   |                                              |                                                                                 |             |
 | 15   |                                              |                                                                                 |             |
 | 16   |                                              |                                                                                 |             |
