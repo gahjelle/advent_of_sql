@@ -18,7 +18,7 @@ Solutions to [Advent of SQL 2024](https://adventofsql.com/) using [Python](https
 | 11   | The Christmas Tree Famine                    | [aosql202411.py](11_the_christmas_tree_famine/aosql202411.py)                   |   1.35 ms 🔵 |
 | 12   | The Great Gift Ranking                       | [aosql202412.py](12_the_great_gift_ranking/aosql202412.py)                      | 796.12 μs ⚪️ |
 | 13   | Santa's Christmas Card List                  | [aosql202413.py](13_santas_christmas_card_list/aosql202413.py)                  |   3.01 ms 🔵 |
-| 14   |                                              |                                                                                 |             |
+| 14   | Where Is Santa's Green Suit?                 | [aosql202414.py](14_where_is_santas_green_suit/aosql202414.py)                  |   1.95 ms 🔵 |
 | 15   |                                              |                                                                                 |             |
 | 16   |                                              |                                                                                 |             |
 | 17   |                                              |                                                                                 |             |

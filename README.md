@@ -2,9 +2,9 @@
 
 My solutions to the excellent puzzles at [adventofsql.com](http://adventofsql.com/) in different languages:
 
-- 🐻‍❄️ [Polars](polars/) (15 ⭐)
+- 🐻‍❄️ [Polars](polars/) (16 ⭐)
 
-All my solutions (15 ⭐):
+All my solutions (16 ⭐):
 
 |   Day | 2024                                                             |
 |------:|:-----------------------------------------------------------------|
@@ -22,7 +22,7 @@ All my solutions (15 ⭐):
 |    11 | [🐻‍❄️](polars/2024/11_the_christmas_tree_famine)                   |
 |    12 | [🐻‍❄️](polars/2024/12_the_great_gift_ranking)                      |
 |    13 | [🐻‍❄️](polars/2024/13_santas_christmas_card_list)                  |
-|    14 |                                                                  |
+|    14 | [🐻‍❄️](polars/2024/14_where_is_santas_green_suit)                  |
 |    15 |                                                                  |
 |    16 |                                                                  |
 |    17 |                                                                  |
