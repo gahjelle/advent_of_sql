@@ -2,9 +2,9 @@
 
 My solutions to the excellent puzzles at [adventofsql.com](http://adventofsql.com/) in different languages:
 
-- 🐻‍❄️ [Polars](polars/) (14 ⭐)
+- 🐻‍❄️ [Polars](polars/) (15 ⭐)
 
-All my solutions (14 ⭐):
+All my solutions (15 ⭐):
 
 |   Day | 2024                                                             |
 |------:|:-----------------------------------------------------------------|
@@ -26,7 +26,7 @@ All my solutions (14 ⭐):
 |    15 |                                                                  |
 |    16 |                                                                  |
 |    17 |                                                                  |
-|    18 |                                                                  |
+|    18 | [🐻‍❄️](polars/2024/18_who_has_the_most_peers)                      |
 |    19 |                                                                  |
 |    20 |                                                                  |
 |    21 |                                                                  |

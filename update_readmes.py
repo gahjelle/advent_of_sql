@@ -33,6 +33,11 @@ class Puzzle:
                 11: "The Christmas Tree Famine",
                 12: "The Great Gift Ranking",
                 13: "Santa's Christmas Card List",
+                14: "Where is Santa's Green Suit?",
+                15: "Santa is Missing",
+                16: "Santa's Delivery Time Analysis",
+                17: "Christmas Time Zone Madness",
+                18: "Who Has the Most Peers?",
             }
         }
         return titles[self.year][self.day]

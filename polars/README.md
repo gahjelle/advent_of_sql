@@ -1,6 +1,6 @@
 # Advent of SQL in Polars
 
-Solutions to [Advent of SQL](https://adventofsql.com/) in [Polars](https://docs.pola.rs/) (14⭐):
+Solutions to [Advent of SQL](https://adventofsql.com/) in [Polars](https://docs.pola.rs/) (15⭐):
 
 |   Day | [2024](2024)                                              |
 |------:|:----------------------------------------------------------|
@@ -22,7 +22,7 @@ Solutions to [Advent of SQL](https://adventofsql.com/) in [Polars](https://docs.
 |    15 |                                                           |
 |    16 |                                                           |
 |    17 |                                                           |
-|    18 |                                                           |
+|    18 | [⭐](2024/18_who_has_the_most_peers)                      |
 |    19 |                                                           |
 |    20 |                                                           |
 |    21 |                                                           |
