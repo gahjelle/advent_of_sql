@@ -23,7 +23,7 @@ Solutions to [Advent of SQL 2024](https://adventofsql.com/) using [Python](https
 | 16   |                                              |                                                                                 |             |
 | 17   |                                              |                                                                                 |             |
 | 18   | Who Has The Most Peers?                      | [aosql202418.py](18_who_has_the_most_peers/aosql202418.py)                      | 614.70 ms 🔵 |
-| 19   |                                              |                                                                                 |             |
+| 19   | Performance Review Season                    | [aosql202419.py](19_performance_review_season/aosql202419.py)                   |   1.93 ms 🔵 |
 | 20   |                                              |                                                                                 |             |
 | 21   |                                              |                                                                                 |             |
 | 22   |                                              |                                                                                 |             |

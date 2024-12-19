@@ -38,6 +38,7 @@ class Puzzle:
                 16: "Santa's Delivery Time Analysis",
                 17: "Christmas Time Zone Madness",
                 18: "Who Has the Most Peers?",
+                19: "Performance Review Season",
             }
         }
         return titles[self.year][self.day]
