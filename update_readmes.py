@@ -39,6 +39,9 @@ class Puzzle:
                 17: "Christmas Time Zone Madness",
                 18: "Who Has the Most Peers?",
                 19: "Performance Review Season",
+                20: "Santa Takes on Site Analytics",
+                21: "Santa Chooses his Influencer",
+                22: "Conscripting SQL Loving Elves",
             }
         }
         return titles[self.year][self.day]
